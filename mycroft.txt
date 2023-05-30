@@ -1,0 +1,4 @@
+cd mycroft-core
+./start-mycroft.sh cli
+open moodle quiz
+
